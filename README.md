@@ -2,7 +2,6 @@
 For testing
 
 # git commands
-# ----------------
 
 ```
 // save your changes locally
