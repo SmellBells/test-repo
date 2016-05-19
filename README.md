@@ -16,4 +16,10 @@ git push origin master
 
 // create new branch with whatever name you want
 git checkout -b branchname
+
+// reset code to a commit (f12345 is the commit number)
+git reset --hard f12345
+
+// reset code to previous commit
+git reset --hard HEAD~1
 ```
